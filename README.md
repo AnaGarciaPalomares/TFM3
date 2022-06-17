@@ -14,6 +14,6 @@ La informacion incluida en este repositorio se estructura de la siguiente forma:
 - Fuente de información:DATOS_BRUTOS
 - Requisitos.txt
 
-NOTA: Para poder ejecutar el código de forma automática, han de descargarse las carpetas DATOS_BRUTOS y NOTEBOOKS, y cambiar las rutas en los Notebooks de ejecución de código a donde estén guardados los datos originales.
+NOTA: Para poder ejecutar el código de forma automática, han de descargarse las carpetas DATOS_BRUTOS y NOTEBOOKS, y cambiar las rutas en los Notebooks de ejecución de código a donde estén guardados los datos brutos.
 
 La versión de Python utilizada es Python 3.8.2.
